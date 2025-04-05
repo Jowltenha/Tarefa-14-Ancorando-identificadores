@@ -1,0 +1,8 @@
+h1 {
+  text-decoration: underline;
+  text-align: center;
+}
+li {
+  display: inline;
+  padding: 60px;
+}
